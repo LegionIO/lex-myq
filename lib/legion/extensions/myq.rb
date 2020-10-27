@@ -1,4 +1,4 @@
-require "legion/extensions/myq/version"
+require 'legion/extensions/myq/version'
 
 module Legion
   module Extensions
